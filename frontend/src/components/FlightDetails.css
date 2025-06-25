@@ -1,0 +1,30 @@
+.flight-details-card {
+    background-color: #383838;
+    border-radius: 8px;
+    padding: 1.5rem;
+    color: #f5f5f5;
+    border: 1px solid #444;
+}
+
+.flight-details-header {
+    color: #61dafb;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #555;
+    padding-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icao-badge {
+    background-color: #555;
+    color: #e0e0e0;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.flight-details-card p {
+    margin-bottom: 0.5rem;
+} 

@@ -1,0 +1,14 @@
+.flight-chart-container {
+    margin-top: 1.5rem;
+    background-color: #383838;
+    border-radius: 8px;
+    padding: 1rem;
+    border: 1px solid #444;
+}
+
+.chart-title {
+    text-align: center;
+    color: #e0e0e0;
+    margin-bottom: 1rem;
+    font-weight: 300;
+} 
